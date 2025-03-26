@@ -7,4 +7,4 @@ Instructions in program are mostly straightfoward basically have the text conver
 
 *** This isnt a super sophisticated 'spammer' but it does the job
 
--Bupak
+-Thomas Bu
