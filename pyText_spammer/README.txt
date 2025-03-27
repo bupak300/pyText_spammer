@@ -1,6 +1,6 @@
 This a python program I made to spam messages from inside a text chat
 
-*** if that chat you want to send messages too does not use 'Enter' as a shortcut to send messages you will probably have to alter the code
+if the chat you want to send messages too does not use 'Enter' as a shortcut to send messages you will probably have to alter the code
 
 # Installation
 1. Clone the repository
